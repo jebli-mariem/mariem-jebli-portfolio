@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Après publication, ajouter: Sitemap: https://VOTRE-PROJET.vercel.app/sitemap.xml
